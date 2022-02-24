@@ -1,3 +1,4 @@
+
 .footer {
   position: fixed;
   left: 0;
@@ -8,4 +9,18 @@
   text-align: left;
 }
 
+.nav_container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /*border: solid 1px red;*/
+}
 
+.nav_container{
+    max-width:10%;
+    max-height: 10%;
+    width: 10%;
+    height: 1px;;
+   
+
+}
